@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "",
+    "phpsab.fixerEnable": false,
+    "phpmd.enabled": false,
+    "phpmd.clearOnClose": false
+}
